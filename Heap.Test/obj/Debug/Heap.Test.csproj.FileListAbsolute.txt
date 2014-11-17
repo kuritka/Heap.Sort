@@ -1,0 +1,15 @@
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\Heap.Test.dll
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\Heap.Test.pdb
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\FluentAssertions.Core.dll
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\FluentAssertions.dll
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\nunit.framework.dll
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\FluentAssertions.pdb
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\FluentAssertions.xml
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\FluentAssertions.Core.pdb
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\FluentAssertions.Core.xml
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\nunit.framework.xml
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\obj\Debug\Heap.Test.csprojResolveAssemblyReference.cache
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\obj\Debug\Heap.Test.dll
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\obj\Debug\Heap.Test.pdb
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\CoffeeWheat.TestData.dll
+C:\Temp\Projects\PripravaNaBing\Heap.Test\Heap.Test\bin\Debug\CoffeeWheat.TestData.pdb
